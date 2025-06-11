@@ -18,3 +18,6 @@ Este é um projeto simples de sistema bancário feito em Python feito juntamente
 2. Clone este repositório ou copie o código para um arquivo `.py`:
    ```bash
    git clone (https://github.com/laispimentel/criando-sistema-bancario.git)
+Veja abaixo um exemplo do sistema em funcionamento:
+
+![Exemplo do sistema bancário](imagem_sistema.png)
